@@ -115,12 +115,11 @@ xnor (yxnor,a,b);
 endmodule  
 */
 ```
-### Logic symbol & Truthtable:
+### RTL DIAGRAM:
 ![exp-1-image](https://github.com/Shanmugavel29/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/114382660/2531d307-9268-43dd-8337-a3a6d3b83f6d)
-### RTL realization:
-
-Output:
-RTL
-
+### TRUTH TABLE:
+![Screenshot 2023-09-03 225723](https://github.com/Shanmugavel29/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/114382660/543612fd-840e-4f85-8393-0d490007f4af)
+### OUTPUT WAVEFORM:
+![Screenshot 2023-09-03 225737](https://github.com/Shanmugavel29/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/114382660/5a3a7d48-dddf-436a-888e-9b809e0e57c4)
 ### Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
